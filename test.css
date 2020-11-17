@@ -1,0 +1,28 @@
+.student {
+    display: flex;
+}
+
+.panel-body {
+    width: 30%;
+}
+
+table {
+    background-color: rgb(218, 171, 110);
+    border: 1px solid #bad84fc5;
+}
+
+td {
+    text-align: center;
+}
+
+thead {
+    background-color: chartreuse;
+}
+
+.showStudent {
+    width: 70%;
+    padding-top: 30px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    text-align: center;
+}
